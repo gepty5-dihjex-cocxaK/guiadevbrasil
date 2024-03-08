@@ -49,7 +49,7 @@
 
 > Não se assuste com a quantidade de conteúdo apresentado neste guia. Acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e ficar fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
 
-## 🚨 Colabore
+  ## 🚨 Colabore=
 
 - Abra Pull Requests com atualizações
 - Discuta ideias em Issues
